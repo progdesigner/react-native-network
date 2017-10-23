@@ -1,0 +1,30 @@
+{
+  "name": "@progdesigner/react-native-network",
+  "version": "0.1.1",
+  "author": "ProgDesigner <me@progdesigner.com>",
+  "description": "React Native Network",
+  "private": false,
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "react-native",
+    "ios",
+    "android",
+    "network",
+    "progdesigner"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/progdesigner/react-native-network.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "react-native-fetch-blob": "0.10.8"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
